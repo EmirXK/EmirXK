@@ -1,1 +1,1 @@
-Disocrd: BLAST3R#3015
+Discord: BLAST3R#3015
