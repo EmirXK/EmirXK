@@ -1,1 +1,1 @@
-Discord: Miri#7323
+Discord: miri7323
