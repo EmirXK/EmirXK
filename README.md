@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miri</h1>
-<h3 align="center">I'm a computer enginnering student from Kosovo.</h3>
+<h3 align="center">I'm a computer engineering student from Kosovo.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
